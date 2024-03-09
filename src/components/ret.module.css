@@ -1,0 +1,18 @@
+.ret {
+    position: absolute;
+    width: 368px;
+    height: 210px;
+    background-color: #262f34;
+    top: 72px;
+    left: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h2 {
+    position: relative;
+    top: 50%;
+    transform: translate(0, -50%);
+    color: #cecece;
+    font-size: 14px;
+}

@@ -1,0 +1,9 @@
+.GraphDiv {
+    position: absolute;
+    width: 588px;
+    height: 428px;
+    background-color: #262f34;
+    top: 72px;
+    left: 384px;
+    border-radius: 10px;
+}

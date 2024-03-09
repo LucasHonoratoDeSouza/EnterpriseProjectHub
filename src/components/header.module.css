@@ -1,0 +1,37 @@
+.header {
+    position: absolute;
+    color: #cecece;
+    top: 10px;
+    width: 1298px;
+    left: 10px;
+    height: 56px;
+    background-color: #262f34 ;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.EPH {
+    position: relative;
+    display: inline-block;
+    top: -5%;
+    transform: translate(0, -50%);
+    left: 40px;
+    font-size: 16px;
+}
+
+.tri {
+    position: relative;
+    transform: translate(0, -50%);
+    top: 51%;
+    left: 15px;
+    font-size: 20px;
+}
+
+.config {
+    position: relative;
+    float: right;
+    margin-right: 20px;
+    transform: translate(0, -50%);
+    top: -0%;
+    font-size: 20px;
+}

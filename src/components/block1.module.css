@@ -1,0 +1,158 @@
+.Block1 {
+    position: absolute;
+    width: 368px;
+    height: 348.3px;
+    background-color: #262f34;
+    top: 287px;
+    left: 10px;
+    border-radius: 10px;
+}
+
+.addT {
+    position: relative;
+    width: 92%;
+    background-color: #4c5358;
+    margin-left: 4%;
+    height: 30px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+.inputN {
+    color: #cecece;
+    border-radius: 2px ;
+    border: none;
+    border-bottom: 1px solid #171717;
+    background-color: transparent;
+    box-shadow: none;
+    left: 5px;
+    position: relative;
+    top: 50%;
+    transform: translate(0, -60%);
+    padding-left: 2px;
+    font-size: 12px;
+
+}
+
+.inputQ {
+    color: #cecece;
+    width: 20%;
+    border-radius: 2px;
+    border: none;
+    border-bottom: 1px solid #171717;
+    background-color: transparent;
+    box-shadow: none;
+    left: 15px;
+    position: relative;
+    top: 50%;
+    transform: translate(0, -60%);
+    padding-left: 2px;
+    font-size: 12px;
+}
+
+.button {
+    position: relative;
+    width: 40px;
+    height: 20px;
+    background-color: #00ac3c ;
+    border: none;
+    border-radius: 5px;
+    padding-top: 2px;
+    float: right;
+    top: 53%;
+    transform: translate(0, -50%);
+    right: 2%;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.inv {
+    position: relative;
+    color: #cecece;
+    font-size: 14px;
+    top: 30px;
+    left: 15.5px;    
+}
+
+.productsList {
+    margin-top: 40px;
+    height: 200px;
+    overflow-y: auto;
+    color: #cecece;
+
+}
+
+.product {
+    margin-top: 3px;
+    margin-bottom: 2%;
+    width: 90%;
+    background-color: transparent;
+    margin-left: 4%;
+    height: fit-content;
+    color: rgb(206, 206, 206);
+    padding-left: 5px;
+    border-top: 1px solid #919191;
+    font-size: 13px;
+    overflow-y: hidden;
+    padding-top: 4px;
+}
+
+.mais {
+    position: relative;
+    top: 2px;
+    width: 15px;
+    height: 15px;
+    border: none;
+    border-radius: 100%;
+    justify-content: center;
+    background-color: #3f3f3f;
+    color: #cecece;
+    margin-left: 5px;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+}
+
+.menos {
+    padding-top: -5px;
+    position: relative;
+    top: 2px;
+    margin-left: 10px;
+    width: 15px;
+    height: 15px;
+    border: none;
+    border-radius: 100%;
+    justify-content: center;
+    background-color: #3f3f3f;
+    color: #cecece;
+    cursor: pointer;  
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    float: left;
+    margin-left: 1px;
+    margin-top: 4px;
+    margin-right: 3px;
+    cursor: pointer;
+    color: rgb(164, 12, 12);
+}
+
+.inputA {
+    border-radius: 10px;
+    width: 30px;
+    border: solid 1px rgb(73, 73, 73);
+    height: 17px;
+    background-color: transparent;
+    color: #cecece;
+    text-align: center;
+    float: right;
+    margin-right: 5px;
+    margin-top: 0;
+}
+
+.inputA:focus {
+    border: none;
+    
+}
